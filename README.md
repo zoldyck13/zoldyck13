@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> I am a Computer Engineer with a deep interest in technology, cybersecurity, and AI programming. I specialize in C++ and Linux systems, particularly Arch and Debian distributions. <br>
+<br> I am a Computer Engineer with a deep interest in technology, cybersecurity, and AI programming. I specialize in C++ and Linux systems. <br>
 
 
 # 💻 Tech Stack:
