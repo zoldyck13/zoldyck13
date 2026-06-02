@@ -1,24 +1,44 @@
-#  About Me:
-<br> I am a Computer Engineer with a deep interest in technology, cybersecurity, and AI programming. I specialize in C++ and Linux systems. <br>
+# Hi there, I'm Ali Naeem 👋 
+### Systems Engineer & AI Researcher
 
-
-#  Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zoldyck13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zoldyck13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoldyck13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+A passionate Systems Engineer and AI Researcher dedicated to bridging the gap between hardware, low-level software, and advanced machine learning models. I specialize in Computer Vision, Linux environments, and automation.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zoldyck13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-name: Full-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
+### 🛠️ Tech Stack & Skills
 
+- **Languages:** `Python` | `C++` | `Bash` | `JavaScript` | `HTML/CSS`
+- **AI & Computer Vision:** `OpenCV` | `PyTorch` | `YOLO` | `Deep Learning` | `Medical Imaging`
+- **Systems & DevOps:** `Arch Linux` | `Advanced Linux Customization` | `Git & GitHub` | `Socket Programming`
+- **Hardware & Embedded:** `Electronics & PCB Analysis` | `Hardware Hacking` | `Automation Scripts`
+
+---
+
+### 💻 Current Projects & Focus Areas
+
+- 🤖 **Artificial Intelligence:** Developing vision pipelines, speech synthesis (TTS), and intelligent automation tools.
+- 🐧 **Linux Systems:** Customizing power-user environments, shell scripting, and core system optimizations.
+- 📊 **Data & Analytics:** Building predictive models and localized real-estate price prediction pipelines.
+- 🧮 **Mathematical Visualizations:** Crafting programmatic math animations and voice-controlled educational tools.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
